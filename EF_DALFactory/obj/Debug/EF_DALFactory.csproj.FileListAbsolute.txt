@@ -1,0 +1,17 @@
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\EF_DALFactory\bin\Debug\EF_DALFactory.dll
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\EF_DALFactory\bin\Debug\EF_DALFactory.pdb
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\EF_DALFactory\obj\Debug\EF_DALFactory.csprojAssemblyReference.cache
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\EF_DALFactory\obj\Debug\EF_DALFactory.csproj.CoreCompileInputs.cache
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\EF_DALFactory\obj\Debug\EF_DALFactory.dll
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\EF_DALFactory\obj\Debug\EF_DALFactory.pdb
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\EF_DALFactory\bin\Debug\DAL.dll
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\EF_DALFactory\bin\Debug\EF_Model.dll
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\EF_DALFactory\bin\Debug\EntityFramework.dll
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\EF_DALFactory\bin\Debug\IDAL.dll
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\EF_DALFactory\bin\Debug\DAL.pdb
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\EF_DALFactory\bin\Debug\EF_Model.pdb
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\EF_DALFactory\bin\Debug\EF_Model.dll.config
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\EF_DALFactory\bin\Debug\IDAL.pdb
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\EF_DALFactory\bin\Debug\EntityFramework.xml
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\EF_DALFactory\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\EF_DALFactory\obj\Debug\EF_DALFactory.csproj.CopyComplete

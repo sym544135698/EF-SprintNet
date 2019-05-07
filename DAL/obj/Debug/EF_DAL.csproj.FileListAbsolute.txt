@@ -1,0 +1,15 @@
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\DAL\bin\Debug\DAL.dll
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\DAL\bin\Debug\DAL.pdb
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\DAL\obj\Debug\EF_DAL.csprojAssemblyReference.cache
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\DAL\obj\Debug\EF_DAL.csproj.CoreCompileInputs.cache
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\DAL\obj\Debug\DAL.dll
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\DAL\obj\Debug\DAL.pdb
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\DAL\bin\Debug\EF_Model.dll
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\DAL\bin\Debug\EntityFramework.dll
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\DAL\bin\Debug\EF_Model.pdb
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\DAL\bin\Debug\EF_Model.dll.config
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\DAL\bin\Debug\EntityFramework.xml
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\DAL\obj\Debug\EF_DAL.csproj.CopyComplete
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\DAL\bin\Debug\IDAL.dll
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\DAL\bin\Debug\IDAL.pdb

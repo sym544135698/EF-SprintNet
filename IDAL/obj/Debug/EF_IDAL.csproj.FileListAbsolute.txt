@@ -1,0 +1,13 @@
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\IDAL\bin\Debug\IDAL.dll
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\IDAL\bin\Debug\IDAL.pdb
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\IDAL\obj\Debug\EF_IDAL.csprojAssemblyReference.cache
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\IDAL\obj\Debug\EF_IDAL.csproj.CoreCompileInputs.cache
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\IDAL\obj\Debug\IDAL.dll
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\IDAL\obj\Debug\IDAL.pdb
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\IDAL\bin\Debug\EF_Model.dll
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\IDAL\bin\Debug\EntityFramework.dll
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\IDAL\bin\Debug\EF_Model.pdb
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\IDAL\bin\Debug\EF_Model.dll.config
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\IDAL\bin\Debug\EntityFramework.xml
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\IDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\IDAL\obj\Debug\EF_IDAL.csproj.CopyComplete

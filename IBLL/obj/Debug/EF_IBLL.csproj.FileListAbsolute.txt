@@ -1,0 +1,6 @@
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\IBLL\bin\Debug\IBLL.dll
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\IBLL\bin\Debug\IBLL.pdb
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\IBLL\obj\Debug\EF_IBLL.csprojAssemblyReference.cache
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\IBLL\obj\Debug\EF_IBLL.csproj.CoreCompileInputs.cache
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\IBLL\obj\Debug\IBLL.dll
+D:\Learning\VS2017\MVC\EFSpringNet\EF_SpringNet\IBLL\obj\Debug\IBLL.pdb
